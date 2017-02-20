@@ -1,0 +1,9 @@
+c:\users\torica\documents\visual studio 2015\Projects\joy2mouse_host\joy2mouse_host\bin\Debug\joy2mouse_host.exe.config
+c:\users\torica\documents\visual studio 2015\Projects\joy2mouse_host\joy2mouse_host\bin\Debug\joy2mouse_host.exe
+c:\users\torica\documents\visual studio 2015\Projects\joy2mouse_host\joy2mouse_host\bin\Debug\joy2mouse_host.pdb
+c:\users\torica\documents\visual studio 2015\Projects\joy2mouse_host\joy2mouse_host\obj\Debug\joy2mouse_host.csprojResolveAssemblyReference.cache
+c:\users\torica\documents\visual studio 2015\Projects\joy2mouse_host\joy2mouse_host\obj\Debug\joy2mouse_host.Form1.resources
+c:\users\torica\documents\visual studio 2015\Projects\joy2mouse_host\joy2mouse_host\obj\Debug\joy2mouse_host.Properties.Resources.resources
+c:\users\torica\documents\visual studio 2015\Projects\joy2mouse_host\joy2mouse_host\obj\Debug\joy2mouse_host.csproj.GenerateResource.Cache
+c:\users\torica\documents\visual studio 2015\Projects\joy2mouse_host\joy2mouse_host\obj\Debug\joy2mouse_host.exe
+c:\users\torica\documents\visual studio 2015\Projects\joy2mouse_host\joy2mouse_host\obj\Debug\joy2mouse_host.pdb
