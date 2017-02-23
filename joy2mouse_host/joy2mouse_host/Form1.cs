@@ -34,12 +34,19 @@ namespace joy2mouse_host
                     int valueX = int.Parse(elements[0]);
                     int valueY = int.Parse(elements[1]);
 
+                    int h = System.Windows.Forms.Screen.PrimaryScreen.Bounds.Height;
+                    int w = System.Windows.Forms.Screen.PrimaryScreen.Bounds.Width;
+
+                    /*
                     int newCursorX = System.Windows.Forms.Cursor.Position.X + valueX/20;
                     int newCursorY = System.Windows.Forms.Cursor.Position.Y - valueY/20;
+                    */
+
+                    int newCursorX = w/2 + valueX / 20;
+                    int newCursorY = h/2 - valueY / 20;
                     System.Windows.Forms.Cursor.Position = new System.Drawing.Point(newCursorX, newCursorY);
 
                     Console.WriteLine("{0} -> X={1}, Y={2}",data,valueX,valueY);
-                    //SendKeys.SendWait("{ENTER}");
                 }
             }
             catch (Exception ex)
